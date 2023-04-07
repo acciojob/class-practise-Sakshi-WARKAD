@@ -1,5 +1,10 @@
 /*  your css code here. If applicable */
-.selector{
+#selector1{
+	font-color:#00f;
+    background-color:#eee;
+	font-family:sans-serif;
+}
+#selector2{
 	font-color:#00f;
     background-color:#eee;
 	font-family:sans-serif;
